@@ -1,3 +1,5 @@
+<img>https://miro.medium.com/v2/resize:fit:1358/1*3RrAoZWTBBl13gHhIMpQYg.gif</img>
+
 # 👋 Hi, I'm Rohit Kalgude
 
 🚀 A passionate MERN Stack Developer from India
@@ -79,4 +81,3 @@ Let’s work on something amazing together! Feel free to reach out or explore my
 ---
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fjavascript.plainenglish.io%2Fwhat-makes-node-js-tick-exploring-its-architecture-c923536ad697&psig=AOvVaw28DN_FwnT-Jc1nhr5kLQ0v&ust=1745211180503000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCtv7bo5YwDFQAAAAAdAAAAABAE
