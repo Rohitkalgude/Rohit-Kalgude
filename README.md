@@ -49,14 +49,16 @@
 ## 📁 Featured Projects
 
 ### 🔹 [Payroll Management System](https://github.com/Rohitkalgude/PayrollMenament)
-> Backend project built using Node.js, Express, and MongoDB. Includes features like employee attendance, leave tracking, salary calculation, and authentication.
+>Full-Stack project built using React.js, Node.js, Express, and MongoDB. Includes features like employee attendance, leave tracking, salary calculation, and authentication.
 
 ### 🔹 [Myntra Clone](https://github.com/Rohitkalgude/Myntra)
-> Frontend e-commerce clone using HTML, CSS, and vanilla JS. Designed to replicate Myntra’s layout and structure.
+> Frontend e-commerce clone using HTML, CSS, and JS. Designed to replicate Myntra’s layout and structure.
 
 ### 🔹 [Fiverr Freelancing Clone](https://github.com/Rohitkalgude/Fiverr-Freelancing-Clone)
 > Full-stack freelancing platform inspired by Fiverr. Built with React, Tailwind CSS, and includes custom components, dynamic routes, and animations.
 
+### 🔹 [Shopping Cart](https://github.com/Rohitkalgude/Shopping-Cart)
+> A mini e-commerce shopping cart built using React- Redux and Tailwind CSS. Includes product listing, add-to-cart, and responsive UI components.
 ---
 
 ## 📫 How to Reach Me
