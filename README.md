@@ -1,77 +1,82 @@
-<!-- Banner or GIF -->
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HSpAapP9Mw8eLCfjDdAx7g.gif" alt="Node.js Architecture" />
-</p>
+# 👋 Hi, I'm Rohit Kalgude
 
-# 👋 Hello, I'm Rohit Kalgude
-
-🚀 A passionate **MERN Stack Developer** from India  
-💻 I love building dynamic web apps and solving real-world problems with code  
+🚀 A passionate MERN Stack Developer from India
 
 ---
 
-## 📌 About Me
+## 🧠 About Me
 
-- 🔭 Currently diving deep into **full-stack development (MERN)**
-- ⚡ Fun fact: I’m funny 😄 and love writing clean, reusable code
-- 💬 Ask me about: **React**, **Tailwind CSS**, **Node.js**, **MongoDB**
-- 👯 Open to collaborating on **MERN stack projects**, startups, or **open-source**
-- 🧠 Passionate about learning, problem-solving, and improving my craft
+- 🌱 I’m currently learning full-stack web development (MERN Stack)
+- 👨‍💻 Always excited to build complex web applications and interactive UIs
+- 💬 Ask me about React, Tailwind CSS, Node.js, Express, MongoDB
+- 👯 I’m looking to collaborate on MERN stack projects, startups, and open-source
+- 🧩 Fun fact: I’m funny 😄 and love clean code
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages, Tools & Frameworks
 
 ### 👨‍💻 Languages
-`HTML5` • `CSS3` • `JavaScript` • `TypeScript (basic)` • `C/C++` • `Java (basic)`
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript (basic)
+- C/C++
+- Java (basic)
 
 ### 🔧 Frontend
-`React.js` • `Tailwind CSS` • `Bootstrap` • `SCSS`
+- React.js
+- Tailwind CSS
+- Bootstrap
+- SCSS
 
-### 🖥 Backend & Database
-`Node.js` • `Express.js` • `MongoDB`
+### 🖥️ Backend & Database
+- Node.js
+- Express.js
+- MongoDB
 
 ### 🧰 Tools & Platforms
-`Git & GitHub` • `VS Code` • `Postman` • `Docker (beginner)` • `AWS (basic)`
+- Git & GitHub
+- VS Code
+- Postman
+- Docker (beginner)
+- AWS (basic)
 
 ---
 
-## 🔥 Featured Projects
+## 📁 Featured Projects
 
-### 💼 [Payroll Management System](https://github.com/Rohitkalgude/PayrollMenament)
-> Node.js + MongoDB powered backend for managing employees, attendance, leaves, salary calculations, and authentication.
+### 🔹 [Payroll Management System](https://github.com/Rohitkalgude/PayrollMenament)
+> Backend project built using Node.js, Express, and MongoDB. Includes features like employee attendance, leave tracking, salary calculation, and authentication.
 
-### 🛍️ [Myntra Clone](https://github.com/Rohitkalgude/Myntra)
-> A frontend e-commerce clone built using HTML, CSS, and JavaScript – mimicking the look of the Myntra home page.
+### 🔹 [Myntra Clone](https://github.com/Rohitkalgude/Myntra)
+> Frontend e-commerce clone using HTML, CSS, and vanilla JS. Designed to replicate Myntra’s layout and structure.
 
-### 🎯 [Fiverr Freelancing Clone](https://github.com/Rohitkalgude/Fiverr-Freelancing-Clone)
-> A full-stack platform inspired by Fiverr, developed with React, Tailwind CSS, dynamic routes, and reusable components.
+### 🔹 [Fiverr Freelancing Clone](https://github.com/Rohitkalgude/Fiverr-Freelancing-Clone)
+> Full-stack freelancing platform inspired by Fiverr. Built with React, Tailwind CSS, and includes custom components, dynamic routes, and animations.
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [rohitkalgude860@gmail.com](mailto:rohitkalgude860@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/rohit-kalgude-5386a6266](https://www.linkedin.com/in/rohit-kalgude-5386a6266)
+- 🐦 Twitter: [@kalgude_rohit](https://x.com/kalgude_rohit?s=09)
+- 📸 Instagram: [@rohit__09.4](https://www.instagram.com/rohit__09.4/#)
 
 ---
 
 
 ## 🌐 Let's Connect
 
-📧 **Email:** [rohitkalgude860@gmail.com](mailto:rohitkalgude860@gmail.com)  
-🔗 **LinkedIn:** [rohit-kalgude-5386a6266](https://www.linkedin.com/in/rohit-kalgude-5386a6266)  
-📸 **Instagram:** [@rohit__09.4](https://www.instagram.com/rohit__09.4/#)  
-🐦 **Twitter:** [@kalgude_rohit](https://x.com/kalgude_rohit?s=09)  
+Let’s work on something amazing together! Feel free to reach out or explore my projects. 👇
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/rohit-kalgude-5386a6266)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/rohitkalgude007)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/rohit__09.4/#)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://x.com/kalgude_rohit?s=09)
 
 ---
 
-### ☕ Let's Build Something Cool Together!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohit-kalgude-5386a6266">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/rohitkalgude007">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.instagram.com/rohit__09.4/#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/kalgude_rohit?s=09">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fjavascript.plainenglish.io%2Fwhat-makes-node-js-tick-exploring-its-architecture-c923536ad697&psig=AOvVaw28DN_FwnT-Jc1nhr5kLQ0v&ust=1745211180503000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCtv7bo5YwDFQAAAAAdAAAAABAE
