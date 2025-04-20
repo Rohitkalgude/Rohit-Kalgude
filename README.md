@@ -49,7 +49,7 @@
 ## 📁 Featured Projects
 
 ### 🔹 [Payroll Management System](https://github.com/Rohitkalgude/PayrollMenament)
->Full-Stack project built using React.js, Node.js, Express, and MongoDB. Includes features like employee attendance, leave tracking, salary calculation, and authentication.
+> Full-Stack project built using React.js, Node.js, Express, and MongoDB. Includes features like employee attendance, leave tracking, salary calculation, and authentication.
 
 ### 🔹 [Myntra Clone](https://github.com/Rohitkalgude/Myntra)
 > Frontend e-commerce clone using HTML, CSS, and JS. Designed to replicate Myntra’s layout and structure.
@@ -58,7 +58,11 @@
 > Full-stack freelancing platform inspired by Fiverr. Built with React, Tailwind CSS, and includes custom components, dynamic routes, and animations.
 
 ### 🔹 [Shopping Cart](https://github.com/Rohitkalgude/Shopping-Cart)
-> A mini e-commerce shopping cart built using React- Redux and Tailwind CSS. Includes product listing, add-to-cart, and responsive UI components.
+> A mini e-commerce shopping cart built using React-Redux and Tailwind CSS. Includes product listing, add-to-cart, and responsive UI components.
+
+### 🔹 [Todo App](https://github.com/Rohitkalgude/Redux-Todo)
+> A Todo app built using React and Redux for state management. Features include task creation, deletion, and completion status.
+
 ---
 
 ## 📫 How to Reach Me
@@ -70,7 +74,6 @@
 
 ---
 
-
 ## 🌐 Let's Connect
 
 Let’s work on something amazing together! Feel free to reach out or explore my projects. 👇
@@ -81,5 +84,3 @@ Let’s work on something amazing together! Feel free to reach out or explore my
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://x.com/kalgude_rohit?s=09)
 
 ---
-
-
