@@ -25,3 +25,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkalgude&show_icons=true&locale=en" alt="rohitkalgude" /></p>
 
 
+## 🔧 My Projects
+- 🎯 [Fiverr Freelancing Clone](https://github.com/Rohitkalgude/Fiverr-Freelancing-Clone)
+- 🛍️ [Myntra Clone](https://github.com/Rohitkalgude/Myntra)
+- 🧾 [Payroll Management System](https://github.com/Rohitkalgude/PayrollMenagment)
+
+## 🚀 Skills
+- HTML | CSS | JavaScript
+- React | Tailwind CSS
+- Node.js | MongoDB
+
+> Let's build something amazing!
+
+
+
