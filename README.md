@@ -1,4 +1,4 @@
-<img>https://miro.medium.com/v2/resize:fit:1358/1*3RrAoZWTBBl13gHhIMpQYg.gif</img>
+![Gif Image](https://miro.medium.com/v2/resize:fit:1358/1*3RrAoZWTBBl13gHhIMpQYg.gif)
 
 # 👋 Hi, I'm Rohit Kalgude
 
