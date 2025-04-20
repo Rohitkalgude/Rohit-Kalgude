@@ -31,46 +31,8 @@
 
 ---
 
-## 📂 Featured Projects
 
-### ⚡ Fiverr Freelancing Clone
-> A full-featured clone of Fiverr with React, Tailwind, and smooth UI/UX.
 
-### 🛒 Myntra Clone
-> E-commerce front-end clone of Myntra, built with pure HTML, CSS, and JS.
-
-### 🧑‍💼 Payroll Management System
-> A backend project with Node.js, Express, MongoDB for handling employees, salaries, and attendance.
-
-### 🧾 Amazon Clone
-> Replicating Amazon’s home page layout using HTML & CSS.
-
-### ✅ Gopal's Todo
-> A simple yet functional ToDo app using LocalStorage.
-
-### 💌 Email Subscription Form
-> A clean, modern responsive subscription UI using Tailwind CSS.
-
-### 💳 Pricing Cards
-> Responsive and reusable pricing card components built with HTML/CSS.
-
-### 🪐 Planet E-Commerce
-> Basic layout for a fictional e-commerce site focused on selling planets 🌍.
-
----
-
-## 📊 GitHub Stats
-
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitkalgude007&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkalgude007&layout=compact&theme=radical)
-
----
-
-## 🔥 Contributions & Activity
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitkalgude007&theme=radical)](https://github.com/rohitkalgude007)
-
----
 
 ## 🌐 Let's Connect
 
